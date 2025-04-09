@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">,I'm Gede Ananda</h1>
 <h3 align="center">Hello, my name is Gede Ananda, a student at the Esa Unggul university majoring in informatics engineering, I am an activist in learning and understanding about the world of technology, happy to work in teams and competent in the world of work, always wanting to try something new with new experiences.</h3>
 
-![Logo Repo](assets/logo.png)
+![Logo Repo](assets/logo.jpg)
 
 ## 🙋‍♂️ About Me
 
