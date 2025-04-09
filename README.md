@@ -1,9 +1,14 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<p align="center">
+  <img src="assets/logo.jpg" alt="Logo Repo" width="300" style="border-radius: 15px;" />
+</p>
+
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">,I'm Gede Ananda</h1>
-<h3 align="center">Hello, my name is Gede Ananda, a student at the Esa Unggul university majoring in informatics engineering, I am an activist in learning and understanding about the world of technology, happy to work in teams and competent in the world of work, always wanting to try something new with new experiences.</h3>
+<h3 align="center">💻 Informatics Engineering Student | 🌐 Tech Enthusiast | 🤝 Team Player | 🚀 Lifelong Learner</h3>
 
-![Logo Repo](assets/logo.jpg)
+---
+<h3 align="center">Hello, my name is Gede Ananda, a student at the Esa Unggul university majoring in informatics engineering, I am an activist in learning and understanding about the world of technology, happy to work in teams and competent in the world of work, always wanting to try something new with new experiences.</h3>
 
 ## 🙋‍♂️ About Me
 
@@ -14,6 +19,15 @@
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://nantzzsec.github.io/)**
 
 - 📫 How to reach me **darkclownsecurity@gmail.com**
+
+## 🚀 GitHub Contribution Trophy
+
+![trophy](https://github-profile-trophy.vercel.app/?username=nantzzsec&theme=onedark).
+
+## PIN Project
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nantzzsec&repo=nantzzsec.github.io)](https://github.com/nantzzsec/nantzzsec.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nantzzsec&repo=Web-Smartvillage-php)](https://github.com/nantzzsec/Web-Smartvillage-php)
 
 ## 🚀 Languages and Tools:
 
@@ -54,6 +68,11 @@
 
 <br/>
 <br/>
+
+## 📈 GitHub Activity Graph
+
+![AryaSec1337 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AryaSec1337&theme=react-dark)
+
 
 ## Connect with me:
 
