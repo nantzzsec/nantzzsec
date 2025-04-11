@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">,I'm Gede Ananda</h1>
-<h3 align="center">💻 Penetration Tester | 🕵️ RED TEAM | 🤝 Team Player | 🚀 Data Enginner | 🌏 Cyber Security Analyst</h3>
+<h3 align="center">💻 Penetration Tester | 🕵️ RED TEAM | 🤝 IT Security Officer | 🚀 Data Enginner | 🌏 Cyber Security</h3>
 
 ---
 <h3 align="center">Hello, my name is Gede Ananda, a student at the Esa Unggul university majoring in informatics engineering, I am an activist in learning and understanding about the world of technology, happy to work in teams and competent in the world of work, always wanting to try something new with new experiences.</h3>
