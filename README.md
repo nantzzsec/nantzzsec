@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://nantzzsec.github.io/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://gedeananda.com)**
 
 - 📫 How to reach me **nantzzsec@gmail.com**
 
@@ -78,7 +78,7 @@
 <p align="left">
 
 <a href = "[https://id.linkedin.com/in/gede-ananda-960699309]"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "[https://www.instagram.com/darkclownsec.id/]"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "[https://www.instagram.com/gede.ananda_]"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "[https://www.gedeananda.com/]"><img src="https://img.icons8.com/color/48/itranslate.png"/></a>
 <a href = "[https://www.tiktok.com/@accessdenied_error]"><img src="https://img.icons8.com/color/48/tiktok--v1.png"/></a>
 </p>
