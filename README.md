@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://nantzzsec.github.io/)**
 
-- 📫 How to reach me **darkclownsecurity@gmail.com**
+- 📫 How to reach me **nantzzsec@gmail.com**
 
 ## 🚀 GitHub Contribution Trophy
 
